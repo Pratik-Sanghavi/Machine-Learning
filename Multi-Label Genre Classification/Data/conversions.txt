@@ -1,0 +1,19 @@
+satire -> comedy
+//chinese, japanese, bollywood, filipino -> asian
+//film noir -> crime drama
+//docudrama -> documentary drama
+//Black-and-White -> grayscale
+//experimental -> art
+//spy -> crime thriller action
+//music -> musical
+//Rock\s -> musical
+//mockumentary -> comedy documentary
+//concert -> musical
+//zombie -> horror
+//slasher -> horror
+//adult -> porn
+//sex\s -> porn
+//erotica -> porn
+//swashbuckler -> adventure action
+parody -> comedy
+//anime -> animation
