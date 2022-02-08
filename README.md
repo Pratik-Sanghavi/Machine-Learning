@@ -14,8 +14,8 @@ Table of Contents
 11. [Deploying ML Models as APIs](https://github.com/PratikSangh/Machine-Learning/tree/main/Deploying%20ML%20Models%20as%20APIs)
 12. [Multi-Label Genre Classification](https://github.com/PratikSangh/Machine-Learning/tree/main/Multi-Label%20Genre%20Classification)
 
-Neural Networks Using python frameworks for model definition and deployment as well as exploration of architectures suitable for various datasets. It explores
-i. Machine Learning using the scikit-learn library as well as using numpy
-ii. Standard Neural Networks for classification and regression problems on table data
-iii. Convolutional Neural Networks for image data
-iv. Recursive Neural Networks for text data
+Neural Networks Using python frameworks for model definition and deployment as well as exploration of architectures suitable for various datasets. It explores:<br>
+i. Machine Learning using the scikit-learn library as well as using numpy<br>
+ii. Standard Neural Networks for classification and regression problems on table data<br>
+iii. Convolutional Neural Networks for image data<br>
+iv. Recursive Neural Networks for text data<br>
