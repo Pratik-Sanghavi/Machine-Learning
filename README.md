@@ -13,6 +13,7 @@ Table of Contents
 10. [Examining Features](https://github.com/PratikSangh/Machine-Learning/tree/main/Examining%20Features)
 11. [Deploying ML Models as APIs](https://github.com/PratikSangh/Machine-Learning/tree/main/Deploying%20ML%20Models%20as%20APIs)
 12. [Multi-Label Genre Classification](https://github.com/PratikSangh/Machine-Learning/tree/main/Multi-Label%20Genre%20Classification)
+13. [Squeezenet Implementation Using Tensorflow](https://github.com/PratikSangh/Machine-Learning/tree/main/13.%20Squeezenet%20Implementation%20Using%20Tensorflow)
 
 Neural Networks Using python frameworks for model definition and deployment as well as exploration of architectures suitable for various datasets. It explores:<br>
 i. Machine Learning using the scikit-learn library as well as using numpy<br>
