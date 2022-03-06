@@ -21,3 +21,4 @@ i. Machine Learning using the scikit-learn library as well as using numpy<br>
 ii. Standard Neural Networks for classification and regression problems on table data<br>
 iii. Convolutional Neural Networks for image data<br>
 iv. Recursive Neural Networks for text data<br>
+v. Attention based models for text sentiment analysis
