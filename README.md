@@ -15,6 +15,10 @@ Table of Contents
 12. [Multi-Label Genre Classification](https://github.com/PratikSangh/Machine-Learning/tree/main/Multi-Label%20Genre%20Classification)
 13. [Squeezenet Implementation Using Tensorflow](https://github.com/PratikSangh/Machine-Learning/tree/main/13.%20Squeezenet%20Implementation%20Using%20Tensorflow)
 14. [SeResNext Implementation Using Tensorflow](https://github.com/PratikSangh/Machine-Learning/tree/main/14.%20SeResNext%20Implementation%20Using%20Tensorflow)
+15. [Pytorch for Deep Learning](https://github.com/Pratik-Sanghavi/Machine-Learning/tree/main/15.%20PyTorch%20for%20Deep%20Learning)
+16. [Hands-On Machine Learning With Scikit-learn Keras and Tensorflow](https://github.com/Pratik-Sanghavi/Machine-Learning/tree/main/16.%20Hands-On%20Machine%20Learning%20With%20Scikit-learn%20Keras%20and%20Tensorflow)<br>
+[Deep Learning Notes](
+https://github.com/Pratik-Sanghavi/Machine-Learning/tree/main/Deep%20Learning%20Notes)
 
 Neural Networks Using python frameworks for model definition and deployment as well as exploration of architectures suitable for various datasets. It explores:<br>
 i. Machine Learning using the scikit-learn library as well as using numpy<br>
