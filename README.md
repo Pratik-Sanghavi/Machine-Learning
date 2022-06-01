@@ -17,7 +17,9 @@ Table of Contents
 14. [SeResNext Implementation Using Tensorflow](https://github.com/PratikSangh/Machine-Learning/tree/main/14.%20SeResNext%20Implementation%20Using%20Tensorflow)
 15. [Pytorch for Deep Learning](https://github.com/Pratik-Sanghavi/Machine-Learning/tree/main/15.%20PyTorch%20for%20Deep%20Learning)
 16. [Hands-On Machine Learning With Scikit-learn Keras and Tensorflow](https://github.com/Pratik-Sanghavi/Machine-Learning/tree/main/16.%20Hands-On%20Machine%20Learning%20With%20Scikit-learn%20Keras%20and%20Tensorflow)<br>
-[Deep Learning Notes](
+  16.1. [End to End Data Science Project](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/16.%20Hands-On%20Machine%20Learning%20With%20Scikit-learn%20Keras%20and%20Tensorflow/2.%20End_to_End_Data_Science_Project.ipynb)<br>
+  16.2. [Classification](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/16.%20Hands-On%20Machine%20Learning%20With%20Scikit-learn%20Keras%20and%20Tensorflow/3.%20Classification.ipynb)
+17. [Deep Learning Notes](
 https://github.com/Pratik-Sanghavi/Machine-Learning/tree/main/Deep%20Learning%20Notes)
 
 Neural Networks Using python frameworks for model definition and deployment as well as exploration of architectures suitable for various datasets. It explores:<br>
