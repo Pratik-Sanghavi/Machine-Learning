@@ -20,6 +20,7 @@ Table of Contents
   16.1. [End to End Data Science Project](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/16.%20Hands-On%20Machine%20Learning%20With%20Scikit-learn%20Keras%20and%20Tensorflow/2.%20End_to_End_Data_Science_Project.ipynb)<br>
   16.2. [Classification](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/16.%20Hands-On%20Machine%20Learning%20With%20Scikit-learn%20Keras%20and%20Tensorflow/3.%20Classification.ipynb)<br>
   16.3 [Training Models](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/16.%20Hands-On%20Machine%20Learning%20With%20Scikit-learn%20Keras%20and%20Tensorflow/4.%20Training_Models.ipynb)
+  16.4 [Support Vector Machines]()
 17. [Deep Learning Notes](
 https://github.com/Pratik-Sanghavi/Machine-Learning/tree/main/Deep%20Learning%20Notes)
 
