@@ -21,7 +21,8 @@ Table of Contents
   16.2. [Classification](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/16.%20Hands-On%20Machine%20Learning%20With%20Scikit-learn%20Keras%20and%20Tensorflow/3.%20Classification.ipynb)<br>
   16.3 [Training Models](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/16.%20Hands-On%20Machine%20Learning%20With%20Scikit-learn%20Keras%20and%20Tensorflow/4.%20Training_Models.ipynb)<br>
   16.4 [Support Vector Machines]()
-17. [Deep Learning Notes](
+17. [TensorFlow Developer Certification]
+18. [Deep Learning Notes](
 https://github.com/Pratik-Sanghavi/Machine-Learning/tree/main/Deep%20Learning%20Notes)
 
 Neural Networks Using python frameworks for model definition and deployment as well as exploration of architectures suitable for various datasets. It explores:<br>
