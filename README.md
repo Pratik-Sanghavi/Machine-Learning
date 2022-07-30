@@ -21,7 +21,7 @@ Table of Contents
   16.2. [Classification](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/16.%20Hands-On%20Machine%20Learning%20With%20Scikit-learn%20Keras%20and%20Tensorflow/3.%20Classification.ipynb)<br>
   16.3 [Training Models](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/16.%20Hands-On%20Machine%20Learning%20With%20Scikit-learn%20Keras%20and%20Tensorflow/4.%20Training_Models.ipynb)<br>
   16.4 [Support Vector Machines](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/16.%20Hands-On%20Machine%20Learning%20With%20Scikit-learn%20Keras%20and%20Tensorflow/5.%20Support%20Vector%20Machines.ipynb)
-17. [TensorFlow Developer Certification]
+17. [TensorFlow Developer Certification](https://github.com/Pratik-Sanghavi/Machine-Learning/tree/main/17.%20Tensorflow%20Developer%20Certification%20Notes)
 18. [Deep Learning Notes](
 https://github.com/Pratik-Sanghavi/Machine-Learning/tree/main/Deep%20Learning%20Notes)
 
