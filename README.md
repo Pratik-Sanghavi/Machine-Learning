@@ -1,6 +1,6 @@
 # Machine-Learning
 
-### `Table of Contents`
+### **Table of Contents**
 1. [Model Training Using Numpy](https://github.com/PratikSangh/Machine-Learning/tree/main/Model%20Training%20Using%20Numpy)
 2. [Machine Learning Using scikit-learn](https://github.com/PratikSangh/Machine-Learning/tree/main/Machine%20Learning%20Using%20scikit-learn)
 3. [Neural Networks Using Numpy](https://github.com/PratikSangh/Machine-Learning/tree/main/Neural%20Networks%20Using%20Numpy)
