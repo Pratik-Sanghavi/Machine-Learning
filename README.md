@@ -31,17 +31,19 @@
     &emsp;17.0.6 [Transfer Learning in TensorFlow Part 3: Scaling up](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/Exercises/06_Transfer_Learning_in_TensorFlow_Part_3_Scaling_up.ipynb)<br>
     &emsp;17.0.7 [Food Vision Milestone Project 1](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/Exercises/07_Food_Vision_Milestone_Project_1.ipynb)<br>
     &emsp;17.0.8 [Introduction to NLP in TensorFlow Exercises](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/Exercises/08_Introduction_to_NLP_in_TensorFlow_Exercises.ipynb)<br>
-  17.1 [Deep Learning Tensorflow Fundamentals](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/01_Deep_Learning_Tensorflow_Fundamentals.ipynb)<br>
-  17.2 [Neural Network Regression with Tensorflow](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/02_Neural_Network_Regression_with_Tensorflow.ipynb)<br>
-  17.3 [Neural Network Classification with TensorFlow](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/03_Neural_network_Classification_with_TensorFlow.ipynb)<br>
-  17.4 [Computer Vision and Convolutional Neural Networks](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/04_Computer_Vision_and_Convolutional_Neural_Networks.ipynb)<br>
-  17.5 [Transfer Learning in TensorFlow](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/05_Transfer_Learning_in_TensorFlow.ipynb)<br>
-  17.6 [Transfer Learning in TensorFlow Fine Tuning](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/06_Transfer_Learning_in_TensorFlow_Fine_Tuning.ipynb)<br>
-  17.7 [Transfer Learning with TensorFlow Part 3 Scaling Up](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/07_Transfer_Learning_with_TensorFlow_Part_3_Scaling_Up.ipynb)<br>
-  17.8 [Milestone Project 1: Food Vision Big](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/08_Milestone_Project_1_Food_Vision_Big.ipynb)<br>
-  17.9 [NLP Fundamentals in TensorFlow](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/09_NLP_Fundamentals_in_TensorFlow.ipynb)<br>
-  17.10 [Milestone Project 2: SkimLit](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/10_Milestone_Project_2_SkimLit.ipynb)<br>
-  17.11 [Time Series Fundamentals](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/11_Time_Series_Fundamentals.ipynb)<br>
+  17.1 [extras](https://github.com/Pratik-Sanghavi/Machine-Learning/tree/main/17.%20Tensorflow%20Developer%20Certification%20Notes/extras)<br>
+    &emsp;17.1.1 [helper_functions.py](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/extras/helper_functions.py)<br>
+  17.2 [Deep Learning Tensorflow Fundamentals](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/01_Deep_Learning_Tensorflow_Fundamentals.ipynb)<br>
+  17.3 [Neural Network Regression with Tensorflow](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/02_Neural_Network_Regression_with_Tensorflow.ipynb)<br>
+  17.4 [Neural Network Classification with TensorFlow](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/03_Neural_network_Classification_with_TensorFlow.ipynb)<br>
+  17.5 [Computer Vision and Convolutional Neural Networks](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/04_Computer_Vision_and_Convolutional_Neural_Networks.ipynb)<br>
+  17.6 [Transfer Learning in TensorFlow](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/05_Transfer_Learning_in_TensorFlow.ipynb)<br>
+  17.7 [Transfer Learning in TensorFlow Fine Tuning](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/06_Transfer_Learning_in_TensorFlow_Fine_Tuning.ipynb)<br>
+  17.8 [Transfer Learning with TensorFlow Part 3 Scaling Up](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/07_Transfer_Learning_with_TensorFlow_Part_3_Scaling_Up.ipynb)<br>
+  17.9 [Milestone Project 1: Food Vision Big](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/08_Milestone_Project_1_Food_Vision_Big.ipynb)<br>
+  17.10 [NLP Fundamentals in TensorFlow](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/09_NLP_Fundamentals_in_TensorFlow.ipynb)<br>
+  17.11 [Milestone Project 2: SkimLit](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/10_Milestone_Project_2_SkimLit.ipynb)<br>
+  17.12 [Time Series Fundamentals](https://github.com/Pratik-Sanghavi/Machine-Learning/blob/main/17.%20Tensorflow%20Developer%20Certification%20Notes/11_Time_Series_Fundamentals.ipynb)<br>
 18. [Deep Learning Notes](
 https://github.com/Pratik-Sanghavi/Machine-Learning/tree/main/Deep%20Learning%20Notes)
 
