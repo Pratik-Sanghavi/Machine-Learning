@@ -47,7 +47,7 @@
 18. [Deep Learning Notes](
 https://github.com/Pratik-Sanghavi/Machine-Learning/tree/main/Deep%20Learning%20Notes)
 
-Neural Networks Using python frameworks for model definition and deployment as well as exploration of architectures suitable for various datasets. It explores:<br>
+Neural Networks using python frameworks for model definition and deployment as well as exploration of architectures suitable for various datasets. It explores:<br>
 i. Machine Learning using the scikit-learn library as well as using numpy<br>
 ii. Standard Neural Networks for classification and regression problems on table data<br>
 iii. Convolutional Neural Networks for image data<br>
